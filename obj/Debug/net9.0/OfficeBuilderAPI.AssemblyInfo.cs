@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeBuilderAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b5a017263b30dc05907077ec1a1ccf5b14eaf44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d40d80a9c2b73adf4b1de1f6226932c66a82ee86")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeBuilderAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeBuilderAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
