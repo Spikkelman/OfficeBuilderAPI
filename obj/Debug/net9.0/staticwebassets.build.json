@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jKpQnTeVbOZZVP5HWwA4sk44iHqJLQNFEkzM7dyGBi0=",
+  "Source": "OfficeBuilderAPI",
+  "BasePath": "_content/OfficeBuilderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
