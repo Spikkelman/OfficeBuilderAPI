@@ -6,4 +6,5 @@ public class AppDbContext : DbContext
 
     public DbSet<User> Users { get; set; }
     public DbSet<World> Worlds { get; set; }
+    public DbSet<TileData> TileData { get; set;}
 }

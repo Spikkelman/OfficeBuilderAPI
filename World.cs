@@ -10,4 +10,5 @@ public class World
     // Foreign key to the owning user
     public int UserId { get; set; }
     public User User { get; set; }
+    public List<TileData> Tiles { get; set; } = new();
 }
